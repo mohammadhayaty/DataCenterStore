@@ -10,8 +10,9 @@
 ## مراحل راه اندازی 
 ( برای مشاهده تصاویر سایت قبل از راه اندازی به فولدر Picture در بالا مراجعه کنید )
 
-### تیئئ
-* ذایا
+بعد از باز کردن پروژه در IDE مورد استفاده (مـثلا VS Code)
+### کدهای زیر را در ترمینال وارد کنید :
+*jj
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
