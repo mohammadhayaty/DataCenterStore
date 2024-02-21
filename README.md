@@ -12,7 +12,7 @@
 بعد از باز کردن پروژه در IDE مورد استفاده (مـثلا VS Code)
 ### کدهای زیر را در ترمینال وارد کنید :
 * **composer install**
-* **npm install**
+* **npm install --force**
 * **php artisan storage:link**
 * **npm run dev**
 * **php artisan serve**
